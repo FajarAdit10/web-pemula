@@ -4,6 +4,10 @@
   box-sizing: border-box;
   font-family:Helvetica;
 }
+body {
+  background:black;
+}
+
 
 header {
   background:midnightblue;
@@ -113,9 +117,7 @@ footer {
 }
   
 .pto {
-  display:flex;
-  justify-content: center;
-  align-items: center;
+  text-align: center;
 }
   
   .foto {
