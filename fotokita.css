@@ -1,6 +1,7 @@
 
 body {
   background:url(langit.jpg);
+
 }
 
 .container {
@@ -19,7 +20,7 @@ img {
 }
 
 .foto1{
-  margin-right:50px;
+  margin-right:10px;
 }
 
 .gambar2 {
@@ -27,11 +28,11 @@ img {
 }
 
 .foto3{
-  margin-right:50px;
+  margin-right:10px;
 }
 
 .foto5 {
-  margin-right:50px;
+  margin-right:10px;
 }
 
 .footer {

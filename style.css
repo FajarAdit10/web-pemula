@@ -4,10 +4,10 @@
   box-sizing: border-box;
   font-family:Helvetica;
 }
-body {
-  background:black;
-}
 
+body {
+  background:white;
+}
 
 header {
   background:midnightblue;
@@ -128,7 +128,7 @@ footer {
   }
   
   .ton {
-    margin-top:10px;
+    
   }
 
 .butt {
@@ -136,6 +136,7 @@ footer {
   border-radius: 5px;
   padding:8px 10px;
   font-size:15px;
+  margin-top:10px;
   background:tomato;
 }
 
